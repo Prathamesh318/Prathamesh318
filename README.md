@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on EatFleet Project which is based on Spring Boot,React and Postgresql
 - 🌱 I’m currently learning Angular JS
